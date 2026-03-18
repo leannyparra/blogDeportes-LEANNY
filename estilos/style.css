@@ -46,10 +46,10 @@ body{
 }
 
 footer {
-      text-align: center;
-      padding: 20px;
-      font-size: 14px;
-      color: rgba(255, 255, 255, 0.7);
+    text-align: center;
+    padding: 20px;
+    font-size: 14px;
+    color: rgba(255, 255, 255, 0.7);
 }
 
 /* index/inicio */
@@ -163,6 +163,13 @@ body.historia{
     transform: scale(1.05);
 }
 
+.tabla{
+    color: rgb(0, 0, 0);
+}
+.lateral{
+    color: rgb(255, 255, 255);
+}
+
 
 /* Jugadores */
 
@@ -216,6 +223,8 @@ body.jugadores {
 .card p {
     font-size: 14px;
 }
+
+/* competiciones */
 
 body.Competiciones {
     background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url('../img/historia02.jpg');
