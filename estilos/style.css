@@ -347,3 +347,13 @@ button:hover {
     background: black;
 }
 
+/* inicio de sesion */
+.inicioSesion{
+    font-family: Arial, sans-serif;
+    background: #ffffff;
+    text-align: center;
+}
+
+.tituloSesion {
+  color: #367d44;
+}
